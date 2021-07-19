@@ -12,6 +12,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
+                      this project provide all kind of KeychainDeviceID for iOS developer
                    DESC
 
   spec.homepage     = "https://github.com/shangxiaohe/LXLExtension"
